@@ -1,0 +1,3 @@
+Model,Samples,Accuracy@5,MR-Score@5,First Token (ms),Total Time (ms),TPOT (ms/token),Tokens/Sec,GPU Memory (GB)
+ShatteredShards 1.7B (Dynamic KV),100,0.000,0.611,48.4,51684.3,40.4,24.8,3.21
+Qwen 1.7B (Normal),100,0.000,0.611,53.9,50678.8,39.6,25.2,6.42
