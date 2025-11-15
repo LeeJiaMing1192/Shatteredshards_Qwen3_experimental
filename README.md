@@ -1,4 +1,4 @@
-# 🌟 Shatteredshards Qwen3 Experimental
+# Shatteredshards Qwen3 Experimental
 
 An experimental research project exploring architectural modifications to **Qwen3-based models**, with the goal of improving performance while preserving or enhancing reasoning ability.
 
@@ -6,7 +6,7 @@ This repository includes multiple experimental variants (**1.7B, 4B**), custom T
 
 ---
 
-## 💡 Overview
+## Overview
 
 Shatteredshards Qwen3 Experimental is a collection of **heavily-modified Qwen3 model variants** designed for research on model architecture, memory systems, and reasoning dynamics.
 
@@ -22,7 +22,7 @@ The project experiments with:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 | Directory | Description |
 | :--- | :--- |
@@ -34,7 +34,7 @@ The project experiments with:
 
 ---
 
-## ✨ Features
+## Features
 
 ### Dynamic Key-Value Memory
 
@@ -75,7 +75,7 @@ Transformers (modified local version)
 
 Python scientific stack (numpy, matplotlib, etc.)
 
-🚀 Usage
+Usage
 Each experimental branch or model folder contains its own runnable scripts.
 
 Typical Flow:
